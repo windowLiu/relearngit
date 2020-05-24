@@ -5,3 +5,4 @@ Git tracks changes.
 git add newline
 asdfas
 branch dev
+这是master分支修改的内容
