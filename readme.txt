@@ -5,3 +5,4 @@ Git tracks changes.
 git add newline
 asdfas
 branch dev
+Creating a new branch is quick AND simple.
