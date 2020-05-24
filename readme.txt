@@ -6,3 +6,4 @@ git add newline
 asdfas
 branch dev
 这是master分支修改的内容
+Creating a new branch is quick AND simple.
