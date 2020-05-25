@@ -10,3 +10,4 @@ Creating a new branch is quick AND simple.
 再来一行禁用fast forward模式
 我正在修改啊
 我是第一个开发者哈哈哈
+我是另一个开发者
